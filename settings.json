@@ -332,5 +332,6 @@
         "pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
         "gleam": "gleam run -m $fileNameWithoutExt"
     },
-    "workbench.activityBar.location": "hidden"
+    "workbench.activityBar.location": "hidden",
+    "git.autofetch": true
 }
